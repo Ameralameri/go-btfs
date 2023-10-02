@@ -21,7 +21,6 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bradfitz/iter v0.0.0-20191230175014-e8f45d346db8
 	github.com/bren2010/proquint v0.0.0-20160323162903-38337c27106d
-	github.com/btcsuite/btcd v0.22.1
 	github.com/cenkalti/backoff/v4 v4.1.3
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/dustin/go-humanize v1.0.0
@@ -157,6 +156,7 @@ require (
 	github.com/benbjohnson/immutable v0.3.0 // indirect
 	github.com/bits-and-blooms/bitset v1.2.2 // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2 // indirect
+	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.1 // indirect
 	github.com/containerd/cgroups v1.0.4 // indirect
 	github.com/deckarep/golang-set/v2 v2.1.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.1.0 // indirect
