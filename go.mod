@@ -109,7 +109,7 @@ require (
 	github.com/prometheus/client_golang v1.15.1
 	github.com/shirou/gopsutil/v3 v3.20.12
 	github.com/status-im/keycard-go v0.2.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/tyler-smith/go-bip32 v1.0.0
 	github.com/tyler-smith/go-bip39 v1.1.0
@@ -117,8 +117,8 @@ require (
 	github.com/whyrusleeping/go-sysinfo v0.0.0-20190219211824-4a357d4b90b1
 	github.com/whyrusleeping/multiaddr-filter v0.0.0-20160516205228-e903e4adabd7
 	github.com/whyrusleeping/tar-utils v0.0.0-20201201191210-20a61371de5b
-	go.opentelemetry.io/otel v1.15.1
-	go.opentelemetry.io/otel/trace v1.15.1
+	go.opentelemetry.io/otel v1.18.0
+	go.opentelemetry.io/otel/trace v1.18.0
 	go.uber.org/fx v1.18.2
 	go.uber.org/zap v1.24.0
 	go4.org v0.0.0-20200411211856-f5505b9728dd
@@ -219,7 +219,7 @@ require (
 	github.com/ucarion/urlpath v0.0.0-20200424170820-7ccc79b76bbb // indirect
 	github.com/whyrusleeping/cbor v0.0.0-20171005072247-63513f603b11 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
-	go.opentelemetry.io/otel/metric v0.38.1 // indirect
+	go.opentelemetry.io/otel/metric v1.18.0 // indirect
 	golang.org/x/exp v0.0.0-20230206171751-46f607a40771 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
 )
@@ -342,7 +342,7 @@ require (
 	github.com/whyrusleeping/timecache v0.0.0-20160911033111-cfcb2f1abfee // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	go.opencensus.io v0.24.0
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.41.1
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/dig v1.15.0 // indirect
 	go.uber.org/multierr v1.9.0
